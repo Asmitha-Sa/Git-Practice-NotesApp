@@ -1,1 +1,6 @@
-console.log("Welcome to Notes App!");
+function addNote(note) {
+    console.log(`Note added: ${note}`);
+  }
+  
+  addNote("Finish GitHub Foundations study");
+  
